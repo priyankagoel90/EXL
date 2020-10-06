@@ -1,0 +1,4 @@
+Route : via I-80 W
+Miles  : 164 miles
+Travel Time : 3 h 2 min
+

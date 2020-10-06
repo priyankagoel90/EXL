@@ -1,0 +1,12 @@
+[main] INFO  StepDefinition.GoogleMapStepDefinition  - URL Launched
+[main] INFO  StepDefinition.GoogleMapStepDefinition  - Searching Location!!
+[main] INFO  StepDefinition.GoogleMapStepDefinition  - Verifing Routes!!!
+[main] WARN  StepDefinition.GoogleMapStepDefinition  - Latitude Coordinate doesnt match : expected:<37.757[7627]> but was:<37.757[815]>
+[main] WARN  StepDefinition.GoogleMapStepDefinition  - Longitude Coordinate doesnt match : expected:<-122.[4726194]> but was:<-122.[5076405]>
+[main] INFO  StepDefinition.GoogleMapStepDefinition  - Verified Routes!!!
+[main] INFO  StepDefinition.GoogleMapStepDefinition  - Click on Direction Link!!
+[main] INFO  StepDefinition.GoogleMapStepDefinition  - Entering From and To locations!!!
+[main] INFO  StepDefinition.GoogleMapStepDefinition  - Entered From and To locations!!!
+[main] INFO  StepDefinition.GoogleMapStepDefinition  - Verifying number of routes!!!
+[main] INFO  StepDefinition.GoogleMapStepDefinition  - Verified number of routes!!!
+[main] INFO  StepDefinition.GoogleMapStepDefinition  - Printing Route Title,Distance in Miles,Travel Time!!!
